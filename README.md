@@ -1,25 +1,49 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1500&color=2E7D32&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Krishikaa+%F0%9F%91%8B;Student+%7C+Research-Oriented+Learner;Exploring+Technology+Through+Projects;Learning+by+Reading%2C+Testing%2C+Iterating;Progress+%3E+Perfection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E7D32&center=true&vCenter=true&width=900&lines=Krishikaa+Mathi+Bharathi;Final-Year+CSE+(AI%2FML)+Student;Research-Oriented+Learner+%7C+Now+at+Paris-Saclay" alt="Typing SVG" />
 </p>
 
 <h4 align="center">
-  🌱 I'm a student who loves learning new technologies through hands-on projects and research-driven exploration.<br/>
-  🧠 I want to understand not just <i>what</i> works, but <i>why</i> it works, usually by reading papers, experimenting, and revisiting the basics.
+  I'm a final-year Computer Science student focused on AI/ML, with research interests in deep learning,
+  computer vision, edge AI, and knowledge tracing. I like understanding not just <i>what</i> works but
+  <i>why</i>, and I learn most by reading papers, experimenting, and revisiting the basics.
+  I've just joined the M1 DKAI program at Université Paris-Saclay.
 </h4>
 
 ---
 
-## 🚀 Featured Project: Athletic Performance Analyzer
+## 💼 Professional Experience
 
-> Computer vision pipeline that estimates jump height, airtime, sprint time, and joint angles from athletic videos, with results stored in Firestore.
+**Intern, Digital ME Department**, Hyundai Motors, Sriperumbudur, India
+*June 2025 – July 2025*
+- Analyzed industrial time-series sensor data for anomaly detection and trend prediction
+- Applied machine learning techniques to model motor performance from real-time data
+- Developed interactive dashboards and automated data analytics workflows
+- Implemented end-to-end pipelines for anomaly detection and predictive maintenance
 
-🦴 **MediaPipe Pose** for body landmark tracking · 🎥 **OpenCV** for video processing · ☁️ **Firebase** for per-athlete history
-
-[![View Project](https://img.shields.io/badge/View%20Project-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/athletic-performance-analyzer)
+**AI/ML Development Intern**, HeyBobo.ai, Bangalore, India
+*July 2025 – October 2025*
+- Implemented and evaluated models using NLP, computer vision, and multimodal learning in collaborative team environments
+- Developed and optimized machine learning and deep learning pipelines for real-world applications
 
 ---
 
-## 🧰 My Toolkit
+## 📚 Publications
+
+**Conference papers**
+- **LLM-Based Agentic Decision Support for Maritime Threat Assessment**, ICADS 2026 · [DOI](https://doi.org/10.1109/ICADS69450.2026.11545513)
+- **Silent Speech Learning Framework with Explainable Articulation Error Diagnosis and Regional Language Transliteration**, TQCEBT 2026 · [DOI](https://doi.org/10.1109/tqcebt67648.2026.11681141)
+- **Computational Innovations in Wildlife Detection: A YOLOv8 Approach for Wildfire Environments**, IMACSI 2025 · [DOI](https://doi.org/10.5220/0014167000004932)
+
+**Book chapters**
+- **Explainable Deep Learning for COVID-19 and Chest Disease Detection**, Springer *Optimization and Its Applications*, 2026 · [DOI](https://doi.org/10.1007/978-3-032-15092-9_1)
+- **GPU-Accelerated Emotion-Aware Handwritten Digit Recognition**, IGI Global, 2026 · [DOI](https://doi.org/10.4018/979-8-2600-0965-9.ch007)
+- **Cognitive AI Framework for Smart Water Management in Buildings**, IGI Global, 2026 · [DOI](https://doi.org/10.4018/979-8-2600-3038-7.ch006)
+- **Multimodal Phishing Detection via Image-Text Fusion and CLIP-Based Deep Learning**, IGI Global, 2026 · [DOI](https://doi.org/10.4018/979-8-3373-7082-8.ch009)
+- **Edge-Driven Digital-Twin Framework for Robotic Tele-Rehabilitation in Home IoMT Environments**, IGI Global, 2025 · [DOI](https://doi.org/10.4018/979-8-3373-5447-7.ch005)
+
+---
+
+## 🧰 Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2E7D32?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,11 +54,9 @@
   <img src="https://img.shields.io/badge/PyTorch-388E3C?style=for-the-badge&logo=pytorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-388E3C?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/OpenCV-388E3C?style=for-the-badge&logo=opencv"/>
-  <img src="https://img.shields.io/badge/MediaPipe-388E3C?style=for-the-badge&logo=google"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-388E3C?style=for-the-badge&logo=huggingface"/>
   <img src="https://img.shields.io/badge/FAISS-388E3C?style=for-the-badge"/>
   <br/>
-  <img src="https://img.shields.io/badge/Firebase-1B5E20?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-1B5E20?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-1B5E20?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/Google_Colab-1B5E20?style=for-the-badge&logo=googlecolab"/>
@@ -42,49 +64,20 @@
 
 ---
 
-## 🔭 What I'm Up To
-
-- 🧪 Reading research papers and reimplementing the ideas that interest me
-- 👀 Building computer vision and deep learning projects
-- 🤖 Exploring embedded and edge AI
-- 🧱 Revisiting fundamentals, because they keep paying off
-
-## 🎯 Currently Learning
-
-| Topic | Progress |
-|---|---|
-| Deep learning & PyTorch | `████████░░` 80% |
-| Computer vision | `███████░░░` 70% |
-| Systems & C++ | `█████░░░░░` 50% |
-| Research writing | `██████░░░░` 60% |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ## 💬 Let's Connect
 
-Always happy to learn from others, swap ideas, or collaborate on something new. Say hi!
+Always happy to learn from others, swap ideas, or collaborate on research. Say hi!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishikaa-mathi-bharathi-241a582b0/">
     <img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/Krish1kaa">
+    <img src="https://img.shields.io/badge/GitHub-1B5E20?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
 
 <h3 align="center">
-  <strong><code>Learning in progress — always. 🌿</code></strong>
+  <strong><code>Learning in progress — always.</code></strong>
 </h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=footer" alt="footer wave"/>
-</p>
 
