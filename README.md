@@ -1,40 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E7D32&center=true&vCenter=true&width=900&lines=Krishikaa+Mathi+Bharathi;Final-Year+CSE+(AI%2FML)+Student;Research-Oriented+Learner+%7C+Now+at+Paris-Saclay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E7D32&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Krishikaa+%F0%9F%91%8B;Coffee+%2B+Code+%2B+Curiosity+%E2%98%95;M1+DKAI+%40+Paris-Saclay+%F0%9F%87%AB%F0%9F%87%B7;Always+up+for+a+good+idea+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <h4 align="center">
-  I'm a final-year Computer Science student focused on AI/ML, with research interests in deep learning,
-  computer vision, edge AI, and knowledge tracing. I like understanding not just <i>what</i> works but
-  <i>why</i>, and I learn most by reading papers, experimenting, and revisiting the basics.
-  I've just joined the M1 DKAI program at Université Paris-Saclay.
+  Hey there! I'm a Computer Science grad turned AI/ML enthusiast who loves turning curious questions into
+  working projects. I'm currently an M1 student in the DKAI program at Université Paris-Saclay, and I spend
+  most of my time reading papers, tinkering with models, and asking "but why does this work?" way too often.
+  I'm into deep learning, computer vision, edge AI, and knowledge tracing, and I'm always happy to chat about
+  any of them over a good cup of coffee ☕
 </h4>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-**Intern, Digital ME Department**, Hyundai Motors, Sriperumbudur, India
-*June 2025 – July 2025*
-- Analyzed industrial time-series sensor data for anomaly detection and trend prediction
-- Applied machine learning techniques to model motor performance from real-time data
-- Developed interactive dashboards and automated data analytics workflows
-- Implemented end-to-end pipelines for anomaly detection and predictive maintenance
-
-**AI/ML Development Intern**, HeyBobo.ai, Bangalore, India
-*July 2025 – October 2025*
-- Implemented and evaluated models using NLP, computer vision, and multimodal learning in collaborative team environments
-- Developed and optimized machine learning and deep learning pipelines for real-world applications
+Interned at **Hyundai Motors** (Digital ME) on industrial sensor analytics and at **HeyBobo.ai** building NLP, vision, and multimodal ML pipelines.
 
 ---
 
 ## 📚 Publications
 
-**Conference papers**
 - **LLM-Based Agentic Decision Support for Maritime Threat Assessment**, ICADS 2026 · [DOI](https://doi.org/10.1109/ICADS69450.2026.11545513)
 - **Silent Speech Learning Framework with Explainable Articulation Error Diagnosis and Regional Language Transliteration**, TQCEBT 2026 · [DOI](https://doi.org/10.1109/tqcebt67648.2026.11681141)
 - **Computational Innovations in Wildlife Detection: A YOLOv8 Approach for Wildfire Environments**, IMACSI 2025 · [DOI](https://doi.org/10.5220/0014167000004932)
-
-**Book chapters**
 - **Explainable Deep Learning for COVID-19 and Chest Disease Detection**, Springer *Optimization and Its Applications*, 2026 · [DOI](https://doi.org/10.1007/978-3-032-15092-9_1)
 - **GPU-Accelerated Emotion-Aware Handwritten Digit Recognition**, IGI Global, 2026 · [DOI](https://doi.org/10.4018/979-8-2600-0965-9.ch007)
 - **Cognitive AI Framework for Smart Water Management in Buildings**, IGI Global, 2026 · [DOI](https://doi.org/10.4018/979-8-2600-3038-7.ch006)
@@ -66,7 +54,7 @@
 
 ## 💬 Let's Connect
 
-Always happy to learn from others, swap ideas, or collaborate on research. Say hi!
+Got an idea, a paper to discuss, or a project to collaborate on? Reach out. I'd love to hear from you!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishikaa-mathi-bharathi-241a582b0/">
@@ -78,6 +66,6 @@ Always happy to learn from others, swap ideas, or collaborate on research. Say h
 </p>
 
 <h3 align="center">
-  <strong><code>Learning in progress — always.</code></strong>
+  <strong><code>Learning in progress, always. 🌱</code></strong>
 </h3>
 
