@@ -20,6 +20,7 @@ Interned at **Hyundai Motors** (Digital ME) on industrial sensor analytics and a
 
 ## 📚 Publications
 
+- **Sign Language Recognition in the Age of AI with Disinformation Risks and Security Solutions**, in *Disinformation Security for Generative AI Applications*, 2026 · [DOI](https://doi.org/10.1002/9781394422395.ch8)
 - **LLM-Based Agentic Decision Support for Maritime Threat Assessment**, ICADS 2026 · [DOI](https://doi.org/10.1109/ICADS69450.2026.11545513)
 - **Silent Speech Learning Framework with Explainable Articulation Error Diagnosis and Regional Language Transliteration**, TQCEBT 2026 · [DOI](https://doi.org/10.1109/tqcebt67648.2026.11681141)
 - **Computational Innovations in Wildlife Detection: A YOLOv8 Approach for Wildfire Environments**, IMACSI 2025 · [DOI](https://doi.org/10.5220/0014167000004932)
